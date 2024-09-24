@@ -12,7 +12,7 @@ body {
   background-color: #e0f7fa;
 }
 
-h1 {
+.belugaHeader {
   text-align: center;
   margin-bottom: 20px;
   font-size: 36px;
@@ -20,8 +20,31 @@ h1 {
   color: aqua;
   text-shadow: 2px 2px black;
 }
-
-.belugaContainer {
+.tigerHeader {
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 36px;
+  font-family: 'Poppins';
+  color: white;
+  text-shadow: 2px 2px black;
+}
+.whaleHeader {
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 36px;
+  font-family: 'Poppins';
+  color: blue;
+  text-shadow: 2px 2px black;
+}
+.elkHeader {
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 36px;
+  font-family: 'Poppins';
+  color: burlywood;
+  text-shadow: 2px 2px black;
+}
+.container {
   display: flex;
   justify-content: center;
   align-items: center;
